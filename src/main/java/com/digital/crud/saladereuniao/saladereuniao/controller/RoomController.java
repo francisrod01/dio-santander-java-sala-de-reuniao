@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-impo
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -65,12 +65,3 @@ public class RoomController {
 
 
 }
-
-
-echo "# dio-santander-java-sala-de-reuniao" >> README.md
-        git init
-        git add README.md
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/wellingtongoncalves/dio-santander-java-sala-de-reuniao.git
-        git push -u origin main
